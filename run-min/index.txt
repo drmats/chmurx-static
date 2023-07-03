@@ -6,7 +6,6 @@ GarminConnect_20220621-102510.jpg
 GarminConnect_20220623-181654.jpg
 GarminConnect_20220628-101541.jpg
 GarminConnect_20220702-182436.jpg
-GarminConnect_20220703-193032.jpg
 GarminConnect_20220704-101139.jpg
 GarminConnect_20220706-094205.jpg
 GarminConnect_20220711-101235.jpg
@@ -115,3 +114,4 @@ GarminConnect_20230623-110548.jpg
 GarminConnect_20230626-112919.jpg
 GarminConnect_20230628-195754.jpg
 GarminConnect_20230630-191804.jpg
+GarminConnect_20230703-195900.jpg
